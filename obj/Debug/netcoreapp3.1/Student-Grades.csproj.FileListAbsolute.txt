@@ -1,0 +1,13 @@
+C:\Users\marouane\Desktop\TestApp\dotnet-projects\Student-Grades\bin\Debug\netcoreapp3.1\Student-Grades.exe
+C:\Users\marouane\Desktop\TestApp\dotnet-projects\Student-Grades\bin\Debug\netcoreapp3.1\Student-Grades.deps.json
+C:\Users\marouane\Desktop\TestApp\dotnet-projects\Student-Grades\bin\Debug\netcoreapp3.1\Student-Grades.runtimeconfig.json
+C:\Users\marouane\Desktop\TestApp\dotnet-projects\Student-Grades\bin\Debug\netcoreapp3.1\Student-Grades.runtimeconfig.dev.json
+C:\Users\marouane\Desktop\TestApp\dotnet-projects\Student-Grades\bin\Debug\netcoreapp3.1\Student-Grades.dll
+C:\Users\marouane\Desktop\TestApp\dotnet-projects\Student-Grades\bin\Debug\netcoreapp3.1\Student-Grades.pdb
+C:\Users\marouane\Desktop\TestApp\dotnet-projects\Student-Grades\obj\Debug\netcoreapp3.1\Student-Grades.csprojAssemblyReference.cache
+C:\Users\marouane\Desktop\TestApp\dotnet-projects\Student-Grades\obj\Debug\netcoreapp3.1\Student-Grades.AssemblyInfoInputs.cache
+C:\Users\marouane\Desktop\TestApp\dotnet-projects\Student-Grades\obj\Debug\netcoreapp3.1\Student-Grades.AssemblyInfo.cs
+C:\Users\marouane\Desktop\TestApp\dotnet-projects\Student-Grades\obj\Debug\netcoreapp3.1\Student-Grades.csproj.CoreCompileInputs.cache
+C:\Users\marouane\Desktop\TestApp\dotnet-projects\Student-Grades\obj\Debug\netcoreapp3.1\Student-Grades.dll
+C:\Users\marouane\Desktop\TestApp\dotnet-projects\Student-Grades\obj\Debug\netcoreapp3.1\Student-Grades.pdb
+C:\Users\marouane\Desktop\TestApp\dotnet-projects\Student-Grades\obj\Debug\netcoreapp3.1\Student-Grades.genruntimeconfig.cache
